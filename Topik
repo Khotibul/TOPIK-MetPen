@@ -1,0 +1,34 @@
+Alternatif Topik Di Yayasan Pendidikan Pesantren Mamba’ul Khoiriyatil Islamiyah
+1.	Implementasi sistem informasi e-pesantren bagi pengurus, guru/ustad, maupun wali santri
+2.	Implementasi sistem informasi e-izin pesantren dengan memprediksikan ketepatan Kembali kepesantren menggunakan metode naïve bayes
+3.	Implementasi sistem monitoring kegiatan santri di pondok pesantren.
+
+Topik 1 :
+Pondok pesanteren merupakan sebuah lembaga di bawah naungan yayasan dimana didalamnya banyak cabang pendidikan formal maupun non formal,
+untuk memanagemen sebuah yayasan yang menjadi satu kesatuan disini membutuhkan sebuah sistem informasi berupa aplikasi website atau aplikasi mobile
+untuk mengelolah data yang berhungan dengan administrasi santri/siswa serta mempermudah dalam keberlangsungannya belajar mengajar di pesantren
+maupun formal, maka dalam penelitian ini berencana untuk membangun sistem informasi E-Pesantren yang akan diimplementasikan dalam bentuk website sebagai admin 
+serta aplikasi mobile untuk level pengasuh,guru/ustad, pengurus dan wali santri. Adapaun fitur untuk level pengasuh salah satunya : menerima santri,surat keputusan, pelanggaran santri dll,
+adapun fitur guru/ustad : Mengajar, Nilai,Perizin, Prestasi,Presensi/absen,dan perwalian. Adapun Fitur Pengurus Sebagai Berikut : Administrasi,Keamanan, Kebersihan, Kopontren, paramedis, Sopir Dll.
+dengan adanya sistem ini memudahkan dalem mengelolah kegiatan pondok pesantren seperti belajar mengajar sampai ke administrasi.
+Topik 2 :
+Pesantren mempunyai peran penting dalam mensiarkan agama islam dan mencetak penerus yang baru, maka pendidikan pesantren harus dilakukan 
+dengan disiplin agar santri dalam mencari ilmu dapat maksimal. Demi kelancaran belajar mengajar di pesantren maka harus dibatasi 
+seorang santri yang akan keluar maupun pulang, dengan membangun aplikasi berbasis website yaitu sistem informasi izin pulang santri
+dengan fitur prediksi keterlambatan menggunakn metode naive bayes. Metode datamining ini menggunakan klasifikasi naive bayes dengan 
+atribut yang dapat digunakan pada sistem ini seperti jenis izin, jarak izin, durasi izin, izin sebelumnya dan pelanggaran, 
+sehingga dapat menghasilkan prediksi keterlambatan santri kembali ke pesantren dan tim keamanan izin dapat mudah menentukan izin santri sesuai prediksi yang telah diuji coba setiap data santri.
+Topik 3 :
+Pesantren Mamba’ul Khoiriyatil Islamiyah merupakan pondok pesantren yang berdiri sejak tahun 1961 dan merupakan pendidikan islam terintegrasi. 
+Informasi bagi wali santri sangat diperlukan untuk memantau kegiatan dan perkembangan santri. Saat ini pemberian informasi perkembangan santri 
+kepada wali santri melalui telepon atau whatsapp dengan  cara wali santri menghubungi wali kamar untuk mengetahui perkembangan harian santri, 
+hal ini menyebabkan antrian telepon yang panjang untuk mendapatkan informasi dari wali kamar. Perancangan sistem informasi monitoring kegiatan
+asrama santri dibutuhkan untuk memberikan informasi kepada wali santri mengenai kesehatan, prestasi dan kemajuan hafalan serta pelanggaran 
+santri sehingga wali santri dipermudah untuk memantau dan mendapatkan laporan kegiatan dan perkembangan santri di asrama secara tepat dan 
+cepat setiap harinya. Metode pengembangan sistem yang digunakan adalah Rapid Application Development (RAD) yaitu dengan tahapan Analisis 
+Persyaratan, Design Workshop dan Implementasi. Adapun pengumpulan data dilakukan dengan wawancara dan studi Pustaka. 
+Perancangan Sistem informasi monitoring kegiatan asrama santri memiliki tiga  hak akses yaitu sebagai wali kamar, wali santri dan admin. 
+Akses wali kamar diberikan untuk mengolah data kesehatan, pelanggaran, dan prestasi santri. Akses wali santri untuk melihat dan mengetahui
+kesehatan, prestasi hingga pelanggaran santri. Hak akses admin sebagai super user pengelolaan data master. Perancangan sistem informasi ini
+diharapkan dapat membantu dalam monitoring kegiatan asrama santri di Ponpes Mamba’ul Khoiriyatil Islamiyah dan dapat memudahkan untuk penyampaian 
+informasi dari pengurus asrama kepada wali santri.
